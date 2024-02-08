@@ -154,3 +154,9 @@ input:checked::before {
 
   padding: .75rem;
 }
+
+@media (max-width: 768px) {
+    html {
+        font-size: 87.5%;
+    }
+}
