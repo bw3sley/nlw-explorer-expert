@@ -50,7 +50,7 @@ header h1 {
 #quiz {
   counter-reset: quiz-item;
 
-  margin-bottom: 4rem;
+  margin-bottom: 6rem;
 }
 
 .quiz-item {
@@ -157,6 +157,6 @@ input:checked::before {
 
 @media (max-width: 768px) {
     html {
-        font-size: 87.5%;
+      font-size: 87.5%;
     }
 }
